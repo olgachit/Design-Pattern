@@ -1,0 +1,8 @@
+package ChainOfResponsibility.Example;
+
+public class ManualReviewApprover extends Approver {
+    @Override
+    public void process(ExpenseReport expenseReport) {
+        System.out.println("ManualReviewApprover: Expense report sent for manual review.");
+    }
+}
