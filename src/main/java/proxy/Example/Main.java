@@ -1,4 +1,4 @@
-package Proxy.Example;
+package proxy.Example;
 
 public class Main {
     public static void main(String[] args) {

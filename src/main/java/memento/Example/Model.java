@@ -1,4 +1,4 @@
-package Memento.Example;
+package memento.Example;
 
 public class Model {
     private int[] options = new int[3];

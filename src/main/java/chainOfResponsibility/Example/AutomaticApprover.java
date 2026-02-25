@@ -1,4 +1,4 @@
-package ChainOfResponsibility.Example;
+package chainOfResponsibility.Example;
 
 public class AutomaticApprover extends Approver {
     private static final double AUTOMATIC_APPROVAL_THRESHOLD = 100.0;

@@ -1,4 +1,4 @@
-package Memento.Example;
+package memento.Example;
 
 import javafx.scene.paint.Color;
 import javafx.scene.shape.Rectangle;

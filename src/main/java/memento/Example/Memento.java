@@ -1,4 +1,4 @@
-package Memento.Example;
+package memento.Example;
 
 public class Memento implements IMemento {
     private int[] options;

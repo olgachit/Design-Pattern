@@ -1,4 +1,4 @@
-package ChainOfResponsibility.Example;
+package chainOfResponsibility.Example;
 
 public class InspectingApprover extends Approver {
     private static final double INSPECTING_APPROVAL_THRESHOLD = 400.0;

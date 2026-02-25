@@ -1,4 +1,4 @@
-package Memento.Example;
+package memento.Example;
 
 import javafx.application.Application;
 import javafx.scene.Scene;

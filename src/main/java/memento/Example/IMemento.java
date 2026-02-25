@@ -1,4 +1,4 @@
-package Memento.Example;
+package memento.Example;
 
 public interface IMemento {
     // memento metadata methods

@@ -1,4 +1,4 @@
-package Strategy.Example;
+package strategy.Example;
 
 public class CardPayment implements PaymentStrategy {
     @Override

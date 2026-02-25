@@ -1,4 +1,4 @@
-package Proxy.Example;
+package proxy.Example;
 
 public class RealCity implements City {
     private String name;

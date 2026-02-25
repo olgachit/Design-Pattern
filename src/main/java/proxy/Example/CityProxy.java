@@ -1,4 +1,4 @@
-package Proxy.Example;
+package proxy.Example;
 
 import java.io.BufferedReader;
 import java.io.IOException;

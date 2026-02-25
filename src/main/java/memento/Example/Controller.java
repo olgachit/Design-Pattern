@@ -1,4 +1,4 @@
-package Memento.Example;
+package memento.Example;
 
 import java.util.ArrayList;
 import java.util.List;

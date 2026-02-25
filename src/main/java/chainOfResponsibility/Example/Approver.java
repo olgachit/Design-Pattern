@@ -1,4 +1,4 @@
-package ChainOfResponsibility.Example;
+package chainOfResponsibility.Example;
 
 public abstract class Approver {
 

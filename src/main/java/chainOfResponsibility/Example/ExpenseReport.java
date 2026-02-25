@@ -1,4 +1,4 @@
-package ChainOfResponsibility.Example;
+package chainOfResponsibility.Example;
 
 public class ExpenseReport {
     private double expenses;
