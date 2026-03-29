@@ -1,26 +1,26 @@
-package bridge.Assignment;
+package builder.Assignment;
 
-public class GamingComputerBuilder implements ComputerBuilder {
+public class OfficeComputerBuilder implements  ComputerBuilder{
     private Computer computer = new Computer();
 
     public void buildProcessor() {
-        computer.setProcessor("Intel Core i9");
+        computer.setProcessor("Intel Core i5");
     }
 
     public void buildRAM() {
-        computer.setRam(32);
+        computer.setRam(16);
     }
 
     public void buildHardDrive() {
-        computer.setHardDrive("1TB SSD");
+        computer.setHardDrive("512GB SSD");
     }
 
     public void buildGraphicsCard() {
-        computer.setGraphicsCard("NVIDIA RTX 4090");
+        computer.setGraphicsCard("Integrated Graphics");
     }
 
     public void buildOperatingSystem() {
-        computer.setOperatingSystem("Windows 11");
+        computer.setOperatingSystem("Windows 10");
     }
 
     public Computer getComputer() {

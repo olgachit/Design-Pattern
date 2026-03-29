@@ -1,4 +1,4 @@
-package bridge.Assignment;
+package builder.Assignment;
 
 public class ComputerDirector {
 

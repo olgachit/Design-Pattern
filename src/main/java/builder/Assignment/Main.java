@@ -1,4 +1,4 @@
-package bridge.Assignment;
+package builder.Assignment;
 
 public class Main {
     public static void main(String[] args) {
