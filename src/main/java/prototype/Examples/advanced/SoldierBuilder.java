@@ -1,4 +1,4 @@
-package prototype.Example.advanced;
+package prototype.Examples.advanced;
 
 public class SoldierBuilder {
     private Soldier soldier;
