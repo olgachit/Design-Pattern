@@ -1,4 +1,4 @@
-package prototype.Example.advanced;
+package prototype.Examples.advanced;
 
 public class WearableItem extends Item implements Cloneable {
     public WearableItem(String name) {

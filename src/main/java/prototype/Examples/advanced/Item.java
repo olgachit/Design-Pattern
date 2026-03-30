@@ -1,4 +1,4 @@
-package prototype.Example.advanced;
+package prototype.Examples.advanced;
 
 public abstract class Item implements Cloneable {
     private String name;

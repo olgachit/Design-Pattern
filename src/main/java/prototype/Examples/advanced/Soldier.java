@@ -1,4 +1,4 @@
-package prototype.Example.advanced;
+package prototype.Examples.advanced;
 
 import java.util.ArrayList;
 import java.util.List;

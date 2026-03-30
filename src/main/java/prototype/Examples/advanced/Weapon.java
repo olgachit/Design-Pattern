@@ -1,4 +1,4 @@
-package prototype.Example.advanced;
+package prototype.Examples.advanced;
 
 public class Weapon extends Item implements Cloneable {
     private static int idCounter = 0;

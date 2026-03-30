@@ -1,4 +1,4 @@
-package prototype.Example.simple;
+package prototype.Examples.simple;
 
 public class Soldier implements Prototype {
     private Weapon weapon;
