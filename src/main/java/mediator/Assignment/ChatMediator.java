@@ -1,0 +1,6 @@
+package mediator.Assignment;
+
+public interface ChatMediator {
+    void sendMessage(String message, String from, String to);
+    void registerClient(ChatClient client);
+}
